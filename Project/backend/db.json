@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "dfd6",
+      "name": "sathish",
+      "pw": "sathish@123",
+      "email": "45",
+      "mobile": "9876543"
+    },
+    {
+      "id": "06b5",
+      "name": "sathosh",
+      "pw": "santhu@123",
+      "email": "santhu@gmail.com",
+      "mobile": "9177511909"
+    }
+  ]
+}
